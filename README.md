@@ -6,35 +6,41 @@
 
 
 # Output
-## Login (admin only)
+## Login 
+
 ![ArjunSyah](./img/login.png)
+
 ## Articel
 
 ![ArjunSyah](./img/artikel.png)
 
-## Articel (admin only)
+## Articel 
 
 ![ArjunSyah](./img/admin.png)
 
-## Add Articel (admin only)
+## Add Articel 
 
 ![ArjunSyah](./img/tambah.png)
 
 
-## Update Articel (admin only)
+## Update Articel 
 
 ![ArjunSyah](./img/edit.png)
 
-## Hapus Articel (admin only)
+## Hapus Articel 
 
 ![ArjunSyah](./img/hapus.png)
 
-## Menu Searching (admin only)
+## Upload File 
+
+![ArjunSyah](./img/file upload.png)
+
+## Menu Searching 
 ![ArjunSyah](./img/searc.png)
 
-## Pagenation (admin only)
+## Pagenation 
 ![ArjunSyah](./img/pagenation.png)
 
-## Logout (admin only)
+## Logout 
 
 ![ArjunSyah](./img/logout.png)
